@@ -1,0 +1,27 @@
+:root {
+    background-color: bisque;
+}
+
+h1 {
+    color:brown;
+    
+}
+
+
+
+.red-back {
+
+    background-color:brown;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.text {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
